@@ -48,11 +48,6 @@ h2{
     font-size: 30px;
 }
 
-
-figcaption {
-  text-align: center;
-}
-
 #wid {
     margin-right: 100px;
     margin-left: 30px;
@@ -71,12 +66,6 @@ figcaption {
   flex: 1;
 }
 
-#footnotes {
-  margin-top: 430px;
-  font-size: 14px;
-  text-align: center;
-  color: #4f4974;
-}
 
 .navbar a {
     color: var(--link-color);

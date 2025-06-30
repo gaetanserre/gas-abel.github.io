@@ -72,10 +72,9 @@ figcaption {
 }
 
 #footnotes {
-  margin-top: 430px;
+  margin-top: 20px;
   font-size: 14px;
-  text-align: center;
-  color: #4f4974;
+  color: #666;
 }
 
 .navbar a {
